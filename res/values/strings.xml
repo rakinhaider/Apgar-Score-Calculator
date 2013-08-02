@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Apgar Score Nirnayok</string>
+    <string name="app_name_bangla">অ্যাপগার স্কোর নির্ণায়ক</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">হ্যালো ওয়ার্ল্ড</string>
+    <string name="what_is_apgar">অ্যাপগার স্কোর কি ?</string>
+    <string name="interpretation_of_score">অ্যাপগার স্কোরের ব্যাখ্যা</string>
+    <string name="criteria">মানদণ্ডসমূহ</string>
+    <string name="calculate_apgar_score">শিশুর অ্য্যাপগার স্কোর নির্নয় করুন</string>
+    <string name="apgar_defination">অ্যাপগার স্কোর নির্ণয় করা হয় পাঁচটি মানদন্ডে শিশুর মূল্যায়ন এর মাধ্যমে । এই পাঁচটি মানদন্ড হল শিশুর চেহারার রক্তিমতা, নাড়ির স্পন্দন এর হার, মূখভঙ্গি, নড়াচড়া এবং শ্বাস-প্রশ্বাস । প্রতিটি ক্ষেত্রে শিশুকে শূণ্য থেকে দুই নম্বর প্রদান করা হয় এবং সব গুলো নম্বর এর যোগফল থেকে মূল অ্যাপগার স্কোর নির্ণয় করা হয় ।</string>
+    <string name="details_interpretation">সাধারণত শিশুর জন্মের এক থেকে পাঁচ মিনিটের মধ্যে অ্যাপগার স্কোর নির্ণয় করা হয়ে থাকে । ৭ থেকে ১০ এর মধ্যবর্তি স্কোর নির্দেশ করে সামগ্রিকভাবে শিশুর স্বাস্থ্য ভালো । ৪ থেকে ৮ এর মধ্যবর্তি স্কোরধারী শিশুরা তুলনামূলক অসুস্থ এবং ৩ এর নিচে স্কোরধারী শিশু অবস্থা আশংকাজনক বলে বিবেচনা করা হয়ে থাকে ।</string>
+    <string name="appearance">চেহারার রক্তিমতা</string>
+    <string name="pulse">নাড়ির স্পন্দন</string>
+    <string name="activity">নড়াচড়া</string>
+    <string name="respiratory_effort">স্বাস-প্রশ্বাস</string>
+    <string name="grimace">মুখভঙ্গি</string>
+    <string name="select_appearance">নিম্নোক্ত তালিকা থেকে আপনার শিশুর চেহারার রক্তিমতা বাছাই করুন : </string>
+    <string name="select_pulse">নিম্নোক্ত তালিকা থেকে আপনার শিশুর নাড়ির স্পন্দনের হার বাছাই করুন : </string>
+    <string name="select_grimace">নিম্নোক্ত তালিকা থেকে আপনার শিশুর বাহ্যিক উদ্দিপনার প্রতি সাড়া দেওয়ার ধরণ বাছাই করুন : </string>
+    <string name="select_activity_of_child">নিম্নোক্ত তালিকা থেকে আপনার শিশুর নড়াচড়া করার ধরণ বাছাই করুন : </string>
+    <string name="select_resp_effort">নিম্নোক্ত তালিকা থেকে আপনার শিশুর শ্বাস-প্রশ্বাস এর ধরণ বাছাই করুন : </string>
+    <string name="blueish">ফ্যাকাসে অথবা নীলচে</string>
+    <string name="pink_at_extrimities">হাত ও পাগুলো লালচে</string>
+    <string name="all_pink">সমগ্র শরীর লালচে</string>
+    <string name="pulse_absent">অনুপস্থিত</string>
+    <string name="less_than_hundred">১০০ এর চেয়ে কম</string>
+    <string name="greater_than_hundred">১০০ এর চেয়ে বেশী</string>
+    <string name="no_response">উদ্দীপনার প্রতি কোনো সাড়া দেয় না</string>
+    <string name="feeble_cry">মৃদু স্বরে কান্না করে</string>
+    <string name="loud_cry">উচ্চ স্বরে কান্না করে</string>
+    <string name="no_flexion">নড়াচড়া করছে না</string>
+    <string name="some_flexion">সামান্য নড়াচড়া করছে</string>
+    <string name="flexible">হাত ও পাসহ সমস্ত শরীর নড়াচড়া করছে</string>
+    <string name="no_resp">শ্বাস নিচ্ছে না</string>
+    <string name="week_resp">মৃদু ও ধীরগতিতে স্বাস নিচ্ছে</string>
+    <string name="strong_resp">দ্রুতগতিতে স্বাস নিচ্ছে</string>
+    <string name="calculate">অ্যাপগার স্কোর হিসাব করুন</string>
+    <string name="one">১</string>
+    <string name="two">২</string>
+    <string name="three">৩</string>
+    <string name="four">৪</string>
+    <string name="five">৫</string>
+    <string name="six">৬</string>
+    <string name="seven">৭</string>
+    <string name="eight">৮</string>
+    <string name="nine">৯</string>
+    <string name="ten">১০</string>
+    <string name="result">আপনার শিশুর অ্যাপগার স্কোর </string>
+    <string name="zero">শূণ্য</string>
+    <string name="what_to_do">করণীয়</string>
+    <string name="details_of_what_to_do">আপনার শিশুর অ্যাপগার স্কোর যদি ৩ অথবা তার চেয়ে কম হয় তবে অবশ্যই ডাক্তারের পরামর্শ নেওয়া উচিত। অন্যথায় শিশুর মস্তিষ্কে ক্ষতিসাধন হওয়ার সম্ভাবনা থাকে। অ্য্যাপগার স্কোর ৯ অথবা ১০ সাধারণত শুধুমাত্র সমুদ্রপৃষ্ঠ থেকে অনেক উঁচু স্থানে জন্ম নেওয়া শিশুদের মাঝে লক্ষ্য করা জায়। ধারণা করা হয় সমদ্রপৃষ্ঠ থেকে সুঊচ্চ স্থানে অক্সিজেন এর ঘনত্ব কম থাকায় এরূপ হয়ে থাকে। অ্যাপগার স্কোর ৪-৭ এর মধ্যবর্তি মান গুলোর জন্য শিশুকে আশঙ্কামুক্ত বলে ধারণা করা হয়।</string>
+    <string name="details_appearance">শিশুর শরীরের বর্ণ যদি নীলচে অথবা ফ্যাকাশে হয়ে থাকে তাহলে ০ নম্বর প্রদান কর হয়ে থাকে। শুধুমাত্র হাত ও পা এর বর্ণ যদি লালচে হয় তাহলে ১ নম্বর এবং সমস্ত শরীর এর বর্ণ লালচে হলে শিশুকে ২ নম্বর প্রদান করা হয়।</string>
+    <string name="details_of_pulse">শিশুর নাড়ীর স্পন্দন সাধারণত তিন ধরণের হয়ে থাকে। এগুলো হল নাড়ী স্পন্দন অনুপস্থিত, নাড়ীর স্পন্দনের সংখ্যা মিনিটে ১০০ এর থেকে কম এবং নাড়ীর স্পন্দন এর সংখ্যা মিনিটে ১০০ এর থেকে বেশী। এই তিন ধরণের স্পন্দন এর জন্যা যথাক্রমে ০,১ এবং ২ নম্বর বরাদ্দ করা হয়।</string>
+    <string name="details_of_grimace">বাহ্যিক উদ্দীপনার প্রতি শিশু সাধারণত তিন ধরণের প্রতিক্রিয়া প্রকাশ করে থাকে । এগুলো হল কোনো প্রতিক্রিয়া নেই, সামান্য মুখভঙ্গি অথবা নিছু স্বরে কান্নাকাটি এর মাধ্যমে এবং উচ্ছস্বরে কান্নাকাটি এর মাধ্যমে।এই তিন প্রকার প্রতিক্রিয়াকে যথাক্রমে ০,১ এবং ২ নম্বর প্রদান করা হয়ে থাকে।</string>
+    <string name="details_of_activity">শিশুর নড়াচড়া এর প্রকৃতিকে তিনটি ভাগে ভাগ করা হয়ে থাকে। শিশুর মাঝে যদি কোনো করম নড়াচড়া লক্ষ্যণীয় না হয় তাহলে শিশুকে ০ নম্বর, শিশুর যদি খুব সামান্য পরিসরে নড়াচড়ায় সক্ষম হয় তবে তাকে ১ নম্বর এবং শিশু যদি হাত ও পাসহ সমস্ত শরীর নড়াচড়া করতে সক্ষম হয় তাবে তাকে ২ নম্বর প্রদান করা হয়ে থাকে।</string>
+    <string name="details_of_resp_eff">শিশুর শ্বাস-প্রশ্বাস এর প্রকৃতিকে তিনভাগে ভাগ করা হয়। শিশুর শ্বাস-প্রশ্বাস অনুপস্থিত হলে তাকে ০ নম্বর দেওয়া হয়। শিশু শ্বাস-প্রশ্বাস এর ধরণ অনিয়মিত এবং দুর্বল প্রকৃতির হলে ১ নম্বর বরাদ্দ করা হয়। শিশু ঘন ঘন শ্বাস নিতে সক্ষম হলে তাকে ২ নম্বর প্রদান করা হুয়ে থাকে।</string>
+    <string name="courtesy">করণীয়</string>
+    <string name="details_courtesy">এই অ্যাপটি থেকে আপনি জানতে পারবেন অ্যাপগার স্কোর কি, এই স্কোরের ব্যাখ্যা, কি কি মান্দণ্ডের ভিত্তিতে এই স্কোরিং করা হয়ে থাকে ইত্যাদি। আপনার শিশুর অ্যাপগার স্কোর নির্ণয়েও সাহায্য করবে এই অ্যাপ্পটি। পরিশেষে শিশুর অ্যাপগার স্কোর অনুযায়ী আপনার করণীয়ও জানতে এই অ্যাপ আপনাকে সাহায্য করবে।</string>
+    <string name="back">পূর্ববর্তি পৃষ্ঠায় যাই</string>
+    <string name="please_wait">অপেক্ষা করুন...</string>
+    <string name="page">পৃষ্ঠা</string>
+   
+
+</resources>

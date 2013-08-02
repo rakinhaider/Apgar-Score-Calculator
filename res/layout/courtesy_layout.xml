@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" 
+    android:background="@color/grey">
+
+    <ImageView
+        android:id="@+id/developed_by_eatl"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_weight="1"
+        android:src="@drawable/developed_by_eatl" />
+
+    <TextView
+        android:id="@+id/details_courtesy"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="2"
+        android:gravity="center"
+        android:layout_margin="10dp"
+        android:padding="10dp"
+        android:background="@color/blue"
+        android:layout_below="@+id/developed_by_eatl"
+        android:layout_centerHorizontal="true"
+        />
+    
+ 
+     
+</RelativeLayout>
